@@ -1,4 +1,4 @@
-[![MasterHead](https://timelinecovers.pro/facebook-cover/download/general-technology-computer-background-facebook-cover.jpg)
+![MasterHead](https://timelinecovers.pro/facebook-cover/download/general-technology-computer-background-facebook-cover.jpg)
 <h1 align="center">Hi 👋, I'm Molka Jlassi</h1>
 <h3 align="center">💻 Software Engineer (Angular | Spring Boot | Node.js)</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/woman-sits-front-computer-with-text-code-it_955834-66792.jpg?semt=ais_hybrid">
