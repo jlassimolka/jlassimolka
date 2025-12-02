@@ -1,6 +1,23 @@
 ![MasterHead](https://timelinecovers.pro/facebook-cover/download/general-technology-computer-background-facebook-cover.jpg)
 <h1 align="center">Hi 👋, I'm Molka Jlassi</h1>
-<h3 align="center">💻 Software Engineer (Angular | Spring Boot | Node.js)</h3>
+<p>
+I'm a passionate <strong>Software Engineer</strong> with experience in 
+<span style="color:#f39c12;"><strong>Angular</strong></span>, 
+<span style="color:#27ae60;"><strong>Spring Boot</strong></span>, 
+<span style="color:#3498db;"><strong>Node.js</strong></span>, and 
+<span style="color:#8e44ad;"><strong>Symfony</strong></span>.
+</p>
+
+<p>
+I enjoy building <strong>clean</strong> and <strong>efficient</strong> applications, 
+and I also love working as a <strong>Software Tester (Testeur Logiciel)</strong>. 
+I have hands-on skills in <strong>functional testing, unit testing, and regression testing</strong>, 
+ensuring the software I work on is <em>reliable</em> and <em>high-quality</em>.
+</p>
+
+<p>
+Always eager to learn and explore new technologies, I strive to deliver code that is <strong>robust</strong> and <strong>maintainable</strong>.
+</p>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/woman-sits-front-computer-with-text-code-it_955834-66792.jpg?semt=ais_hybrid">
 
 
