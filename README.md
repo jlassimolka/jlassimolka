@@ -10,8 +10,8 @@ I'm a passionate <strong>Software Engineer</strong> with experience in
 
 <p>
 I enjoy building <strong>clean</strong> and <strong>efficient</strong> applications, 
-and I also love working as a <strong>Software Tester (Testeur Logiciel)</strong>. 
-I have hands-on skills in <strong>functional testing, unit testing, and regression testing</strong>, 
+and I am passionate about <strong>QA Engineering</strong>. 
+I have hands-on skills in <strong>functional, unit, and regression testing</strong>, 
 ensuring the software I work on is <em>reliable</em> and <em>high-quality</em>.
 </p>
 
