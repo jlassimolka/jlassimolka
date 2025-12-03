@@ -45,7 +45,7 @@ Always eager to learn and explore new technologies, I strive to deliver code tha
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jlassimolka" />
-</p>
+</p
 
 ## 👀 Profile Visitors
 <p align="center">
