@@ -46,7 +46,11 @@ Always eager to learn and explore new technologies, I strive to deliver code tha
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jlassimolka" />
 </p>
-![Visitor Count](https://profile-counter.glitch.me/jlassimolka/count.svg)
+
+## 👀 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jlassimolka&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
 
 
 
