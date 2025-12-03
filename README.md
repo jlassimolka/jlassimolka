@@ -42,10 +42,9 @@ Always eager to learn and explore new technologies, I strive to deliver code tha
  
 </p>
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jlassimolka" />
-</p
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jlassimolka" alt="Molka's Streak Stats" />
+</p>
 
 ## 👀 Profile Visitors
 <p align="center">
