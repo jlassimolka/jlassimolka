@@ -63,19 +63,11 @@ Always eager to learn and explore new technologies, I strive to deliver code tha
 </p>
 
 ## 📖 Currently Learning
-<p align="left">
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/1029972?s=200&v=4" alt="cypress" width="40" height="40"/>
-  </a>
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-    <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
-  </a>
-  <a href="https://www.qatechnical.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Qa_logo.png" alt="QA" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/QA%20Engineering-F39C12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202A?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-623CEA?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
 ## ☁️ Databases & Cloud
@@ -89,9 +81,7 @@ Always eager to learn and explore new technologies, I strive to deliver code tha
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/6741656?s=200&v=4" alt="influxdb" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
