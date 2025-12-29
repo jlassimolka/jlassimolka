@@ -108,9 +108,7 @@ Always eager to learn and explore new technologies, I strive to deliver code tha
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jlassimolka" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlassimolka&layout=compact" />
-</p>
+
 
 ---
 
