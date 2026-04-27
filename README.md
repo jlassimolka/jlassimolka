@@ -56,6 +56,10 @@ Always eager to learn and explore new technologies, I strive to deliver
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jlassimolka" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/jlassimolka/jlassimolka?style=for-the-badge&color=blue&label=Last%20Push" />
+</p>
+
 ---
 
 ## 👀 Profile Visitors
