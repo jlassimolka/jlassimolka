@@ -72,8 +72,18 @@ Angular, Spring Boot, Node.js, QA Engineering
 
 ## 🔗 Connect with me
 
+## 🔗 Connect with me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/molka-jlassi-07b928225/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://molka-jlassi-portfolio-qa.netlify.app/en" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+
+  <a href="mailto:molka.jlassi09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
