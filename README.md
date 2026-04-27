@@ -70,7 +70,9 @@ Always eager to learn and explore new technologies, I strive to deliver
 
 Angular, Spring Boot, Node.js, QA Engineering
 
-## 🔗 Connect with me
+
+
+
 
 ## 🔗 Connect with me
 
@@ -80,10 +82,10 @@ Angular, Spring Boot, Node.js, QA Engineering
   </a>
 
   <a href="https://molka-jlassi-portfolio-qa.netlify.app/en" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=webflow" />
   </a>
 
   <a href="mailto:molka.jlassi09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
