@@ -3,16 +3,16 @@
 <h1 align="center">Hi 👋, I'm Molka Jlassi</h1>
 
 <p align="center">
-I'm a passionate <strong>Software Engineer</strong> with experience in 
+I'm a <strong>Software Engineer</strong> and <strong>QA Engineer</strong>, ISTQB Certified, with experience in 
 <strong>Angular</strong>, <strong>Spring Boot</strong>, 
-<strong>Node.js</strong>, and <strong>Symfony</strong>.
+<strong>Node.js</strong>, <strong>Symfony</strong>, <strong>Selenium</strong>, and <strong>CI/CD</strong>.
 </p>
 
 <p align="center">
 I enjoy building <strong>clean</strong> and <strong>efficient</strong> applications, 
-and I am passionate about <strong>QA Engineering</strong>. 
-I have hands-on skills in <strong>functional, unit, and regression testing</strong>, 
-ensuring high-quality and reliable software.
+with a strong passion for <strong>software quality assurance</strong>. 
+I have hands-on experience in <strong>functional testing</strong>, <strong>unit testing</strong>, and <strong>regression testing</strong>, 
+ensuring high-quality and reliable software products.
 </p>
 
 <p align="center">
