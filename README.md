@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Molka Jlassi</h1>
 
 <p align="center">
-I'm a <strong>Software Engineer</strong> and <strong>QA Engineer</strong>, ISTQB Certified, with experience in 
+I'm a <strong>Software Engineer</strong> and <strong>QA Engineer</strong>, <strong>ISTQB Certified</strong>, with experience in 
 <strong>Angular</strong>, <strong>Spring Boot</strong>, 
 <strong>Node.js</strong>, <strong>Symfony</strong>, <strong>Selenium</strong>, and <strong>CI/CD</strong>.
 </p>
